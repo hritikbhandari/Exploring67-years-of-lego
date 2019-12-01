@@ -1,2 +1,2 @@
-# Exploring67-years-of-lego
-This a project that I took from DataCamp and completed.
+# Exploring 67 years of lego
+This project ia an anlysis of LEGO Dataset taken from DataCamp Projects.
